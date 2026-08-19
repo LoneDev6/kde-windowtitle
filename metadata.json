@@ -22,9 +22,10 @@
         "ServiceTypes": [
             "Plasma/Applet"
         ],
-        "Version": "0.7.1-2",
+        "Version": "0.7.1-3",
         "Website": "https://github.com/LoneDev6/kde-windowtitle"
     },
+    "KPackageStructure": "Plasma/Applet",
     "Keyword": "window title icon",
     "X-Plasma-API-Minimum-Version": "6.0"
 }
